@@ -1,0 +1,18 @@
+Player vs Computer - Board Size: 3
+
+Move 0:
+      
+      
+      
+
+Move 2:
+  O   
+  X   
+      
+
+Move 4:
+O O   
+X X   
+      
+
+Player (X) WINS!
