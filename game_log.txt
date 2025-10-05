@@ -1,48 +1,18 @@
-Tic Tac Toe Game - Board Size: 3
+Player vs Computer - Board Size: 3
 
-Move 0 - Player X's turn:
+Move 0:
       
       
       
 
-Move 1 - Player O's turn:
+Move 2:
       
   X   
-      
-
-Move 2 - Player X's turn:
 O     
-  X   
-      
 
-Move 3 - Player O's turn:
-O     
+Move 4:
+      
 X X   
-      
+O   O 
 
-Move 4 - Player X's turn:
-O     
-X X O 
-      
-
-Move 5 - Player O's turn:
-O     
-X X O 
-  X   
-
-Move 6 - Player X's turn:
-O O   
-X X O 
-  X   
-
-Move 7 - Player O's turn:
-O O X 
-X X O 
-  X   
-
-Move 8 - Player X's turn:
-O O X 
-X X O 
-O X   
-
-Game ended in DRAW!
+Player (X) WINS!

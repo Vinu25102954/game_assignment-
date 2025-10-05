@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "tictactoe.h"
 
 // Create the game board
 void createBoard(char board[10][10], int size) {
